@@ -1,5 +1,4 @@
 [![node](https://img.shields.io/badge/node-v10.16.0-1b7cbd.svg?style=flat-square)](https://nodejs.org/en/)
-
 [![Yarn](https://img.shields.io/badge/Yarn-v1.22.0-ff69b4.svg?style=flat-square)](https://yarnpkg.com/)
 
 # curso-react-redux
